@@ -1,0 +1,15 @@
+{
+    "slack": {
+      "token":"xapp-1-A07BVVAMP9V-7415662508325-b0c15be9554b2b69f75f82f48f9fef00d06c3f0dfa373879c4dabe9cd6b27ca0",
+      "channel": "7418546345026.7403996737335",
+      "adminEmail": "admin@example.com"
+    },
+    "db": {
+      "host": "localhost",
+      "user": "root",
+      "password": "",
+      "database": "vulnerabilities"
+    },
+    "fetchInterval": "0 * * * * * * *" 
+  }
+  
